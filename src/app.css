@@ -1,0 +1,46 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.w-85 {
+    width: 22rem;
+}
+
+.header-bg {
+    background-color: rgba(68, 80, 116, 0.9);
+}
+
+.sidenav-bg {
+    background-color: rgba(68, 80, 116);
+}
+
+
+.blue-color {
+    color: rgba(68, 80, 116, 0.9);
+}
+
+.oker-color {
+    color: #aaa76f;
+}
+  
+.dropdown-bg:hover {
+    background-color: #aaa76f;
+    transition: 0.4s ease-in-out;
+}
+
+.hover-text:hover {
+    color: #aaa76f;
+    transition: 0.4s ease-in-out
+}
+
+.border-oker {
+    border: 3px solid #aaa76f;
+  }
+  
+  
+
+  
+  
